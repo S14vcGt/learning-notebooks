@@ -1,0 +1,9 @@
+scikit-learn
+numpy
+matplotlib
+sympy
+scipy
+plotly
+ipykernel
+marimo
+'altair[all]'
